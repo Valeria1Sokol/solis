@@ -260,11 +260,11 @@ input:active {
 
 #intro .download-brochure {
     background-image: url(img/pdf.png);
-    background-position: 20%;
+    background-position: 10%;
     background-size: 19%;
     background-repeat: no-repeat;
     width: 13.7vw;
-    padding: 1.2vw 1.4vw;
+    padding: 1.2vw 1.2vw;
     text-align: right;
     background-color: #00af54;
     color: white;
